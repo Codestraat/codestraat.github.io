@@ -1,0 +1,93 @@
+{
+  "main": {
+    "name":"Kennyola Kongi",
+    "occupation":"Front-end Web Developer/Web analyst",
+    "description":"values deep, authentic effective communication, trustful collaborations, and continuous improvement. Motivated by my inner world rather than outside expectations.",
+    "image":"profilepic.jpg",
+    "contactmessage":"Send me a message, if you want to do cool stuff.",
+    "email": "developers@codestraat.com",
+    "phone": "0684672712",
+    "address":{
+      "city":"Rotterdam",
+      "state":"Netherlands",
+      "zip": "3014AD"
+    },
+    "website": "https://www.codestraat.com/",
+    "resumedownload":"https://drive.google.com/drive/u/0/my-drive",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/codestraat",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/kennyola-kongi-68943ba/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/codestraat",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"",
+        "className":"fa fa-skype"
+      },
+      {
+        "name":"email",
+        "url":"mailto:developers@codestraat.com?subject=The%20subject%20of%20the%20mail",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"NIIT New Delhi India",
+        "degree":"Computer/Information Technology and Management",
+        "graduated":"September 2000",
+        "description":""
+      },
+      {
+       
+      }
+    ],
+    "work":[
+      {
+        "company":"Codestraat",
+        "title":"Freelance Wordpress developer/Tableau Data Analyst",
+        "years":"2014 - present",
+        "description":"Designed and established user-friendly websites."
+      },
+      {
+        "company": "Ecertify",
+        "title": "Moodle Course content developer  ",
+        "years": "2011–2013",
+        "description": "Developed assigned online course(s) within the process, schedule, guidelines, regulatory rules, and style of the company's defined expectations"
+      },
+      {
+        "company":"The Island Resorts ",
+        "title":"Data Entry/Analysis Specialist",
+        "years":"2001 - 2011",
+        "description":"Compiled, sorted, verified, and corrected data to be entered,Reviewed data for completeness and accuracy.Contacted the authors of source documents to address data inconsistencies and to gather missing data."
+        
+      }
+      
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Kennyola has a great mentality that always seeks to improve his skills. Her discipline makes working with her easy and challenging at the same time. She loves to share his ideas and accomplishments with other people, which makes her very easily leave an impact in any working environment.",
+        "user":"Coen Legemate | Software Engineer "
+      },
+      {
+        "text":"I worked with Kennyola as a freelance. Kennyola is detailed orientated, has advanced problem-solving skills. She has the ability to effectively manage several tasks at a time.",
+        "user":"Frank Demon | Full stack web developer "
+      }
+    ]
+  }
+}
